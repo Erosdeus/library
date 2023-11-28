@@ -1,6 +1,6 @@
 Команды запуска:
 ```
-pip install -r requirements
+pip install -r requirements.txt
 python main.py
 ```
 **Приложение представляет собой базу управления книгами в библиотеке.**
